@@ -1,0 +1,1 @@
+create database enrollment_db;
